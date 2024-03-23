@@ -1,0 +1,24 @@
+<h1> The Best Movies According to Walid </h1>
+<h2> My top 3 movies of all time.</h2>
+<hr />
+<h3>Forrest gump</h3>
+<p> It has everything</p>
+<h3>Mr. Nobody</h3>
+<p>It,s about time and choice</p>
+<h3>Interstellar</h3>
+<p>Just wow</p>
+<ul>
+    <li>Milk</li>
+    <li>Eggs</li>
+    <li>Flour</li>
+<ol>
+    <li>Tom</li>
+    <li>Cilian</li>
+</ol>
+
+</ul>
+
+<a href="https://www.linkedin.com/in/walidelserry/">My LinkedIn</a>
+<a draggable=true
+This is a link to My CV
+</a>
