@@ -1,0 +1,26 @@
+Html{
+    background:beige;
+    font-size: 10pt;
+}
+.red-text{
+    color: red;
+}
+#main{
+    color: turquoise;
+}
+p[draggable]{
+    color:aquamarine
+}
+*{
+    color: green;
+    text-align: center;
+    font-family: monospace;
+}
+h1{
+    font-size: 30pt;
+    font-weight: 300;
+    
+}
+h2{
+    font-size: 2rem;
+}
